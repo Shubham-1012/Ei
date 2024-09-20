@@ -1,2 +1,3 @@
 # Ei
-This my first Git Repository
+This my first Git Repository.
+Auther- Shubham
